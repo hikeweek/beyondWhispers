@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kjdsh\\UnityProjects\\Beyond Whispers very last\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0FCF6C-86D2-6574-6896-4C6237B19199}|Assembly-CSharp.csproj|c:\\users\\kjdsh\\unityprojects\\beyond whispers very last\\assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0FCF6C-86D2-6574-6896-4C6237B19199}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0FCF6C-86D2-6574-6896-4C6237B19199}|Assembly-CSharp.csproj|c:\\users\\kjdsh\\unityprojects\\beyond whispers very last\\assets\\scripts\\other\\autosceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0FCF6C-86D2-6574-6896-4C6237B19199}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\other\\autosceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0FCF6C-86D2-6574-6896-4C6237B19199}|Assembly-CSharp.csproj|C:\\Users\\kjdsh\\UnityProjects\\Beyond Whispers very last\\assets\\scripts\\other\\deathhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0FCF6C-86D2-6574-6896-4C6237B19199}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\other\\deathhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutoSceneLoader.cs",
+              "DocumentMoniker": "C:\\Users\\kjdsh\\UnityProjects\\Beyond Whispers very last\\Assets\\Scripts\\Other\\AutoSceneLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Other\\AutoSceneLoader.cs",
+              "ToolTip": "C:\\Users\\kjdsh\\UnityProjects\\Beyond Whispers very last\\Assets\\Scripts\\Other\\AutoSceneLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Other\\AutoSceneLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T18:22:28.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\kjdsh\\UnityProjects\\Beyond Whispers very last\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player.cs",
+              "ToolTip": "C:\\Users\\kjdsh\\UnityProjects\\Beyond Whispers very last\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T16:14:41.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeathHandler.cs",
+              "DocumentMoniker": "C:\\Users\\kjdsh\\UnityProjects\\Beyond Whispers very last\\Assets\\Scripts\\Other\\DeathHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Other\\DeathHandler.cs",
+              "ToolTip": "C:\\Users\\kjdsh\\UnityProjects\\Beyond Whispers very last\\Assets\\Scripts\\Other\\DeathHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Other\\DeathHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T16:09:15.468Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

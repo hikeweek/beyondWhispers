@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kjdsh\\UnityProjects\\Beyond Whispers test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF10EA1-63C8-DE94-8D3B-8547D0E8EEF0}|Assembly-CSharp.csproj|c:\\users\\kjdsh\\unityprojects\\beyond whispers test\\assets\\scripts\\other\\coincounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF10EA1-63C8-DE94-8D3B-8547D0E8EEF0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\other\\coincounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF10EA1-63C8-DE94-8D3B-8547D0E8EEF0}|Assembly-CSharp.csproj|C:\\Users\\kjdsh\\UnityProjects\\Beyond Whispers test\\assets\\scripts\\other\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF10EA1-63C8-DE94-8D3B-8547D0E8EEF0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\other\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF10EA1-63C8-DE94-8D3B-8547D0E8EEF0}|Assembly-CSharp.csproj|c:\\users\\kjdsh\\unityprojects\\beyond whispers test\\assets\\scripts\\other\\coinui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF10EA1-63C8-DE94-8D3B-8547D0E8EEF0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\other\\coinui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF10EA1-63C8-DE94-8D3B-8547D0E8EEF0}|Assembly-CSharp.csproj|C:\\Users\\kjdsh\\UnityProjects\\Beyond Whispers test\\assets\\scripts\\other\\bush.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF10EA1-63C8-DE94-8D3B-8547D0E8EEF0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\other\\bush.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoinUI.cs",
+              "DocumentMoniker": "C:\\Users\\kjdsh\\UnityProjects\\Beyond Whispers test\\Assets\\Scripts\\Other\\CoinUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Other\\CoinUI.cs",
+              "ToolTip": "C:\\Users\\kjdsh\\UnityProjects\\Beyond Whispers test\\Assets\\Scripts\\Other\\CoinUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Other\\CoinUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T11:06:54.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bush.cs",
+              "DocumentMoniker": "C:\\Users\\kjdsh\\UnityProjects\\Beyond Whispers test\\Assets\\Scripts\\Other\\Bush.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Other\\Bush.cs",
+              "ToolTip": "C:\\Users\\kjdsh\\UnityProjects\\Beyond Whispers test\\Assets\\Scripts\\Other\\Bush.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Other\\Bush.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T11:00:58.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "C:\\Users\\kjdsh\\UnityProjects\\Beyond Whispers test\\Assets\\Scripts\\Other\\Coin.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Other\\Coin.cs",
+              "ToolTip": "C:\\Users\\kjdsh\\UnityProjects\\Beyond Whispers test\\Assets\\Scripts\\Other\\Coin.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Other\\Coin.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA9wCgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T11:00:05.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoinCounter.cs",
+              "DocumentMoniker": "C:\\Users\\kjdsh\\UnityProjects\\Beyond Whispers test\\Assets\\Scripts\\Other\\CoinCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Other\\CoinCounter.cs",
+              "ToolTip": "C:\\Users\\kjdsh\\UnityProjects\\Beyond Whispers test\\Assets\\Scripts\\Other\\CoinCounter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Other\\CoinCounter.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAswDsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T10:56:52.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

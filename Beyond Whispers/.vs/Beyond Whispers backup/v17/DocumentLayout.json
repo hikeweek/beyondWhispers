@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kjdsh\\UnityProjects\\Beyond Whispers backup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{760E7C67-0DE4-9ED0-826A-2549D47CB29D}|Assembly-CSharp.csproj|c:\\users\\kjdsh\\unityprojects\\beyond whispers backup\\assets\\scripts\\other\\coincounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760E7C67-0DE4-9ED0-826A-2549D47CB29D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\other\\coincounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760E7C67-0DE4-9ED0-826A-2549D47CB29D}|Assembly-CSharp.csproj|c:\\users\\kjdsh\\unityprojects\\beyond whispers backup\\assets\\scripts\\other\\scenefader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760E7C67-0DE4-9ED0-826A-2549D47CB29D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\other\\scenefader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760E7C67-0DE4-9ED0-826A-2549D47CB29D}|Assembly-CSharp.csproj|c:\\users\\kjdsh\\unityprojects\\beyond whispers backup\\assets\\scripts\\other\\portaltrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760E7C67-0DE4-9ED0-826A-2549D47CB29D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\other\\portaltrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoinCounter.cs",
+              "DocumentMoniker": "C:\\Users\\kjdsh\\UnityProjects\\Beyond Whispers backup\\Assets\\Scripts\\Other\\CoinCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Other\\CoinCounter.cs",
+              "ToolTip": "C:\\Users\\kjdsh\\UnityProjects\\Beyond Whispers backup\\Assets\\Scripts\\Other\\CoinCounter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Other\\CoinCounter.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T09:54:55.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PortalTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\kjdsh\\UnityProjects\\Beyond Whispers backup\\Assets\\Scripts\\Other\\PortalTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Other\\PortalTrigger.cs",
+              "ToolTip": "C:\\Users\\kjdsh\\UnityProjects\\Beyond Whispers backup\\Assets\\Scripts\\Other\\PortalTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Other\\PortalTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T06:23:46.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SceneFader.cs",
+              "DocumentMoniker": "C:\\Users\\kjdsh\\UnityProjects\\Beyond Whispers backup\\Assets\\Scripts\\Other\\SceneFader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Other\\SceneFader.cs",
+              "ToolTip": "C:\\Users\\kjdsh\\UnityProjects\\Beyond Whispers backup\\Assets\\Scripts\\Other\\SceneFader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Other\\SceneFader.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T06:23:01.891Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
